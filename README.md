@@ -1,2 +1,2 @@
 # tails-adventure
-Jogo feito para a disciplina de Programação de Computadores
+Jogo desenvolvido em Ruby, com a biblioteca Gosu para a disciplina de Programação de Computadores
