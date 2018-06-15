@@ -58,7 +58,7 @@ class GameWindow < Gosu::Window
     @bancoicon = Gosu::Image.new("Imagens/BancoIcon.png")
     @tela = Gosu::Image.new("Imagens/inicial01.png")
     @tela2 = Gosu::Image.new("Imagens/inicial02.png")
-    @telatutorial = Gosu::Image.new("Imagens/Tutorial.png")
+    @telatutorial = Gosu::Image.new("Imagens/tutorial.png")
     @gameover = Gosu::Image.new("Imagens/gameover06.png")
 
     @font = Gosu::Font.new(self, "Verdana", 30)
