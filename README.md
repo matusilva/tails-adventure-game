@@ -5,7 +5,7 @@ Jogo simples desenvolvido com a biblioteca [Gosu](https://www.libgosu.org/) para
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto
 
-<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<a href="https://www.ruby-lang.org/pt/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/></a>
 
 ### 💻 Contribuição
 <table>
